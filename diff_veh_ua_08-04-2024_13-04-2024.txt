@@ -1,0 +1,9 @@
+T-80BV: +1 damaged;
+M113: +1 destroyed;
+Kozak-7: +1 destroyed;
+Unknown HMMWVvariant: +1 destroyed;
+155mm M777A2 howitzer: +1 damaged;
+122mm 2S1 Gvozdika: +1 destroyed;
+Leleka-100: +1 destroyed;
+Shark: -2 destroyed, -1 captured;
+GAZ-66: +1 destroyed;

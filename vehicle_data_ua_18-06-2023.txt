@@ -1,0 +1,319 @@
+2 T-64A: 1 destroyed, 0 damaged, 0 abandoned, 1 captured
+3 T-64B: 1 destroyed, 0 damaged, 0 abandoned, 2 captured
+227 T-64BV: 149 destroyed, 18 damaged, 8 abandoned, 52 captured
+67 T-64BV Zr. 2017: 33 destroyed, 2 damaged, 3 abandoned, 29 captured
+9 T-64B1M: 2 destroyed, 0 damaged, 0 abandoned, 7 captured
+12 T-64BM 'Bulat': 6 destroyed, 2 damaged, 0 abandoned, 4 captured
+5 T-64BM2 'Bulat': 4 destroyed, 1 damaged, 0 abandoned, 0 captured
+2 Unknown T-64: 2 destroyed, 0 damaged, 0 abandoned, 0 captured
+3 T-72 'Ural': 1 destroyed, 1 damaged, 0 abandoned, 1 captured
+46 T-72M/M1(R): 33 destroyed, 1 damaged, 5 abandoned, 7 captured
+1 T-72EA: 0 destroyed, 0 damaged, 0 abandoned, 1 captured
+24 T-72AV: 13 destroyed, 2 damaged, 3 abandoned, 6 captured
+39 T-72B: 29 destroyed, 2 damaged, 0 abandoned, 8 captured
+16 T-72AMT: 7 destroyed, 1 damaged, 2 abandoned, 6 captured
+6 Unknown T-72: 5 destroyed, 1 damaged, 0 abandoned, 0 captured
+41 T-80BV: 21 destroyed, 3 damaged, 2 abandoned, 15 captured
+2 Leopard 2A4: 1 destroyed, 1 damaged, 0 abandoned, 0 captured
+3 Leopard 2A6: 1 destroyed, 0 damaged, 2 abandoned, 0 captured
+31 Unknown tank: 31 destroyed, 0 damaged, 0 abandoned, 0 captured
+2 AMX-10 RC(R): 0 destroyed, 0 damaged, 2 abandoned, 0 captured
+37 BRM-1(K) reconnaissance vehicle: 21 destroyed, 1 damaged, 3 abandoned, 12 captured
+61 BRDM-2: 34 destroyed, 0 damaged, 0 abandoned, 27 captured
+42 BRDM-2L1: 24 destroyed, 1 damaged, 0 abandoned, 17 captured
+11 BRDM-2RKhb chemical reconnaissance vehicle: 9 destroyed, 0 damaged, 0 abandoned, 2 captured
+2 Vepr: 2 destroyed, 0 damaged, 0 abandoned, 0 captured
+52 MT-LB: 42 destroyed, 1 damaged, 1 abandoned, 8 captured
+8 MT-LB with ZU-23 ¿¿ gun: 6 destroyed, 0 damaged, 0 abandoned, 2 captured
+1 MT-LB with BPU-1 turret: 1 destroyed, 0 damaged, 0 abandoned, 0 captured
+1 BTS-4 ARV : 0 destroyed, 0 damaged, 0 abandoned, 1 captured
+5 MT-LBu: 2 destroyed, 0 damaged, 0 abandoned, 3 captured
+19 MT-LB-S Ambulance: 13 destroyed, 0 damaged, 1 abandoned, 5 captured
+2 BMM-70 Ambulance: 2 destroyed, 0 damaged, 0 abandoned, 0 captured
+3 BMM-4C Ambulance: 1 destroyed, 0 damaged, 0 abandoned, 2 captured
+42 Unknown AFV: 42 destroyed, 0 damaged, 0 abandoned, 0 captured
+267 BMP-1(P): 194 destroyed, 6 damaged, 19 abandoned, 48 captured
+1 BMP-1TS: 1 destroyed, 0 damaged, 0 abandoned, 0 captured
+1 BMP-1U 'Shkval': 0 destroyed, 0 damaged, 0 abandoned, 1 captured
+2 BWP-1: 1 destroyed, 0 damaged, 0 abandoned, 1 captured
+6 Pbv 501A: 5 destroyed, 0 damaged, 0 abandoned, 1 captured
+5 BVP M-80A: 3 destroyed, 2 damaged, 0 abandoned, 0 captured
+136 BMP-2(K): 102 destroyed, 2 damaged, 8 abandoned, 24 captured
+20 Unknown BMP-1/2: 20 destroyed, 0 damaged, 0 abandoned, 0 captured
+2 PRP-3 with a BMD-2 turret: 2 destroyed, 0 damaged, 0 abandoned, 0 captured
+4 BMD-2: 1 destroyed, 0 damaged, 0 abandoned, 3 captured
+18 M2A2 Bradley ODS-SA: 6 destroyed, 4 damaged, 8 abandoned, 0 captured
+37 BTR-3: 24 destroyed, 1 damaged, 0 abandoned, 12 captured
+78 BTR-4: 46 destroyed, 4 damaged, 6 abandoned, 22 captured
+18 BTR-60PB: 10 destroyed, 0 damaged, 0 abandoned, 8 captured
+27 BTR-70: 14 destroyed, 3 damaged, 0 abandoned, 10 captured
+7 BTR-70M: 5 destroyed, 0 damaged, 1 abandoned, 1 captured
+26 BTR-7: 6 destroyed, 0 damaged, 0 abandoned, 20 captured
+97 BTR-80: 61 destroyed, 1 damaged, 1 abandoned, 34 captured
+2 BTR-80M: 0 destroyed, 0 damaged, 0 abandoned, 2 captured
+2 BTR-D: 1 destroyed, 0 damaged, 0 abandoned, 1 captured
+1 GT-MU AFV converted to APC: 0 destroyed, 0 damaged, 0 abandoned, 1 captured
+4 Unknown BTR: 3 destroyed, 0 damaged, 1 abandoned, 0 captured
+32 YPR-765: 23 destroyed, 4 damaged, 3 abandoned, 2 captured
+34 M113: 23 destroyed, 5 damaged, 2 abandoned, 4 captured
+3 M113AS4: 2 destroyed, 0 damaged, 0 abandoned, 1 captured
+6 M113G3DK/G4DK: 3 destroyed, 2 damaged, 1 abandoned, 0 captured
+3 FV103 Spartan: 2 destroyed, 0 damaged, 0 abandoned, 1 captured
+9 VAB: 3 destroyed, 2 damaged, 4 abandoned, 0 captured
+3 Sisu XA-185: 2 destroyed, 0 damaged, 0 abandoned, 1 captured
+1 Vepr: 0 destroyed, 0 damaged, 0 abandoned, 1 captured
+2 KrAZ-MPV Shrek One: 1 destroyed, 0 damaged, 0 abandoned, 1 captured
+4 Alvis 4 'Mamba': 2 destroyed, 1 damaged, 0 abandoned, 1 captured
+15 Mastiff Protected Patrol: 7 destroyed, 3 damaged, 4 abandoned, 1 captured
+2 Wolfhound Protected Patrol: 2 destroyed, 0 damaged, 0 abandoned, 0 captured
+8 Bushmaster Protected Mobility Vehicle: 5 destroyed, 3 damaged, 0 abandoned, 0 captured
+36 International M1224 MaxxPro: 23 destroyed, 7 damaged, 4 abandoned, 2 captured
+5 Oshkosh M-ATV: 2 destroyed, 0 damaged, 3 abandoned, 0 captured
+5 ATF Dingo: 3 destroyed, 1 damaged, 1 abandoned, 0 captured
+13 BMC Kirpi: 8 destroyed, 1 damaged, 2 abandoned, 2 captured
+13 KrAZ Cobra: 6 destroyed, 1 damaged, 0 abandoned, 6 captured
+5 KrAZ Cougar: 2 destroyed, 0 damaged, 0 abandoned, 3 captured
+9 KrAZ Spartan: 9 destroyed, 0 damaged, 0 abandoned, 0 captured
+18 Novator: 10 destroyed, 3 damaged, 0 abandoned, 5 captured
+37 Varta: 10 destroyed, 2 damaged, 0 abandoned, 25 captured
+51 Kozak-2: 31 destroyed, 0 damaged, 1 abandoned, 19 captured
+23 Kozak-2M1: 14 destroyed, 1 damaged, 1 abandoned, 7 captured
+4 Kozak-5: 3 destroyed, 0 damaged, 0 abandoned, 1 captured
+5 Kozak-7: 4 destroyed, 1 damaged, 0 abandoned, 0 captured
+3 Triton-1: 0 destroyed, 0 damaged, 0 abandoned, 3 captured
+67 M1114 M1151 HMMWV: 46 destroyed, 7 damaged, 3 abandoned, 11 captured
+7 M1152 HMMWV: 7 destroyed, 0 damaged, 0 abandoned, 0 captured
+15 M998 HMMWV: 2 destroyed, 0 damaged, 0 abandoned, 13 captured
+2 M1165 HMMWV: 2 destroyed, 0 damaged, 0 abandoned, 0 captured
+11 HMMWV Ambulance: 2 destroyed, 2 damaged, 0 abandoned, 7 captured
+2 Unknown HMMWVvariant: 2 destroyed, 0 damaged, 0 abandoned, 0 captured
+14 AT105A Saxon: 5 destroyed, 0 damaged, 0 abandoned, 9 captured
+15 Husky Tactical Support Vehicle: 9 destroyed, 4 damaged, 1 abandoned, 1 captured
+8 Iveco LMV: 7 destroyed, 1 damaged, 0 abandoned, 0 captured
+3 MLS Shield: 1 destroyed, 2 damaged, 0 abandoned, 0 captured
+2 INKAS Titan-S: 2 destroyed, 0 damaged, 0 abandoned, 0 captured
+2 Panthera T6: 1 destroyed, 0 damaged, 0 abandoned, 1 captured
+6 Roshel Senator: 3 destroyed, 2 damaged, 0 abandoned, 1 captured
+1 AMZ Dzik-2: 0 destroyed, 0 damaged, 0 abandoned, 1 captured
+2 Unknown IMV: 2 destroyed, 0 damaged, 0 abandoned, 0 captured
+2 BMP-1KSh command staff vehicle: 2 destroyed, 0 damaged, 0 abandoned, 0 captured
+1 K1Sh1 command staff vehicle: 0 destroyed, 0 damaged, 0 abandoned, 1 captured
+1 R-142N command staff vehicle: 1 destroyed, 0 damaged, 0 abandoned, 0 captured
+1 BTR-70DI-02 'Svityaz' command staff vehicle: 0 destroyed, 0 damaged, 0 abandoned, 1 captured
+2 R-145BM command vehicle: 1 destroyed, 0 damaged, 0 abandoned, 1 captured
+2 BTR-60PU-12 air defence command vehicle: 1 destroyed, 0 damaged, 0 abandoned, 1 captured
+1 R-409A radio station vehicle: 1 destroyed, 0 damaged, 0 abandoned, 0 captured
+1 R-405M radio station vehicle: 1 destroyed, 0 damaged, 0 abandoned, 0 captured
+1 9S470M1 command vehicle for Buk-M1: 1 destroyed, 0 damaged, 0 abandoned, 0 captured
+1 Radio relay station for the TB2 UCAV: 1 destroyed, 0 damaged, 0 abandoned, 0 captured
+2 Control station for the TB2 UCAV: 2 destroyed, 0 damaged, 0 abandoned, 0 captured
+5 IMR-2 combat engineering vehicle: 4 destroyed, 0 damaged, 0 abandoned, 1 captured
+1 BMR-2 mine-clearing tank: 0 destroyed, 0 damaged, 1 abandoned, 0 captured
+1 T-64 mine-clearing tank: 0 destroyed, 0 damaged, 0 abandoned, 1 captured
+3 Leopard 2R mine-clearing tank: 0 destroyed, 0 damaged, 3 abandoned, 0 captured
+1 Wisent 1 mine-clearing tank: 1 destroyed, 0 damaged, 0 abandoned, 0 captured
+3 BAT-2 heavy engineering vehicle: 1 destroyed, 0 damaged, 0 abandoned, 2 captured
+1 MT-T multi-purpose tracked transporter: 0 destroyed, 1 damaged, 0 abandoned, 0 captured
+1 IRM 'Zhuk' engineer reconnaissance vehicle: 0 destroyed, 0 damaged, 0 abandoned, 1 captured
+1 MDK-3 trench-digging vehicle: 0 destroyed, 0 damaged, 0 abandoned, 1 captured
+3 RKhM 'Kashalot': 1 destroyed, 0 damaged, 0 abandoned, 2 captured
+6 BTS-4 armoured recovery vehicle: 3 destroyed, 0 damaged, 1 abandoned, 2 captured
+4 BREM-1 armoured recovery vehicle: 2 destroyed, 1 damaged, 0 abandoned, 1 captured
+1 Ural-4320 KET-L recovery vehicle: 1 destroyed, 0 damaged, 0 abandoned, 0 captured
+3 MTO-AT mobile workshop: 2 destroyed, 0 damaged, 0 abandoned, 1 captured
+1 PTS-2 tracked amphibious transport: 0 destroyed, 0 damaged, 0 abandoned, 1 captured
+3 PMP floating bridge: 2 destroyed, 0 damaged, 0 abandoned, 1 captured
+3 TMM-3M1 bridge layer: 1 destroyed, 0 damaged, 0 abandoned, 2 captured
+1 Pontoon bridge: 1 destroyed, 0 damaged, 0 abandoned, 0 captured
+2 KrAZ-255B with excavator: 1 destroyed, 0 damaged, 0 abandoned, 1 captured
+3 KrAZ-255B pontoon bridge layer: 2 destroyed, 0 damaged, 0 abandoned, 1 captured
+3 KrAZ-260 pontoon bridge layer: 3 destroyed, 0 damaged, 0 abandoned, 0 captured
+1 KrAZ-255B with KS-3575 crane: 1 destroyed, 0 damaged, 0 abandoned, 0 captured
+1 KrAZ-6322 Master mobile workshop: 0 destroyed, 0 damaged, 0 abandoned, 1 captured
+3 GMZ-3 minelayer: 1 destroyed, 0 damaged, 0 abandoned, 2 captured
+3 PZM-2 trench-digging vehicle: 2 destroyed, 1 damaged, 0 abandoned, 0 captured
+1 UMP-350 engine heater: 0 destroyed, 0 damaged, 0 abandoned, 1 captured
+3 ARS-14 decontamination degassing vehicle: 0 destroyed, 0 damaged, 0 abandoned, 3 captured
+1 Ural-4320 KT-L recovery vehicle: 1 destroyed, 0 damaged, 0 abandoned, 0 captured
+1 BMK-460 towing motor boat: 0 destroyed, 1 damaged, 0 abandoned, 0 captured
+1 AK-04-9A 'Porosha' airfield air conditioner based on KamAZ-5320: 1 destroyed, 0 damaged, 0 abandoned, 0 captured
+18 9P148 Konkurs ATGM carrier: 7 destroyed, 0 damaged, 1 abandoned, 10 captured
+3 9P149 Shturm-S ATGM carrier: 1 destroyed, 0 damaged, 0 abandoned, 2 captured
+2 1V13 battery command forward observer vehicle: 2 destroyed, 0 damaged, 0 abandoned, 0 captured
+6 1V14 battery command forward observer vehicle: 5 destroyed, 0 damaged, 0 abandoned, 1 captured
+4 1V15 battery command forward observer vehicle: 0 destroyed, 0 damaged, 0 abandoned, 4 captured
+1 1V16M artillery battalion command staff vehicle: 1 destroyed, 0 damaged, 0 abandoned, 0 captured
+8 1V18 'Klyon-1' artillery command forward observer vehicle: 0 destroyed, 0 damaged, 0 abandoned, 8 captured
+2 9T452 transporter-loader (for BM-27 'Uragan' MRL): 2 destroyed, 0 damaged, 0 abandoned, 0 captured
+3 100mm BS-3 anti-tank gun: 1 destroyed, 0 damaged, 0 abandoned, 2 captured
+18 100mm MT-12 anti-tank gun: 6 destroyed, 1 damaged, 0 abandoned, 11 captured
+1 105mm L119 howitzer: 0 destroyed, 1 damaged, 0 abandoned, 0 captured
+1 120mm 2B16 Nona-K gun mortar: 1 destroyed, 0 damaged, 0 abandoned, 0 captured
+7 122mm D-30 howitzer: 2 destroyed, 4 damaged, 0 abandoned, 2 captured
+1 130mm M-46 field gun: 0 destroyed, 1 damaged, 0 abandoned, 0 captured
+8 152mm D-20 gun-howitzer: 6 destroyed, 1 damaged, 0 abandoned, 1 captured
+12 152mm 2A36 Giatsint-B field-gun: 9 destroyed, 2 damaged, 0 abandoned, 1 captured
+5 152mm 2A65 Msta-B howitzer: 1 destroyed, 1 damaged, 2 abandoned, 1 captured
+3 155mm FH-70 howitzer: 1 destroyed, 2 damaged, 0 abandoned, 0 captured
+1 155mm TRF1 howitzer: 1 destroyed, 0 damaged, 0 abandoned, 0 captured
+52 155mm M777A2 howitzer: 32 destroyed, 20 damaged, 0 abandoned, 0 captured
+15 Unknown towed artillery: 13 destroyed, 2 damaged, 0 abandoned, 0 captured
+2 120mm Bars-8MMK: 2 destroyed, 0 damaged, 0 abandoned, 0 captured
+3 120mm BTR-3M2: 1 destroyed, 0 damaged, 0 abandoned, 2 captured
+3 120mm 2S9 Nona: 3 destroyed, 0 damaged, 0 abandoned, 0 captured
+61 122mm 2S1 Gvozdika: 38 destroyed, 10 damaged, 0 abandoned, 13 captured
+30 152mm 2S3 Akatsiya: 20 destroyed, 6 damaged, 0 abandoned, 4 captured
+3 152mm 2S5 Giatsint-S: 1 destroyed, 0 damaged, 0 abandoned, 2 captured
+5 152mm 2S19 Msta-S: 2 destroyed, 3 damaged, 0 abandoned, 0 captured
+21 155mm M109A3/A4/A5/L: 13 destroyed, 9 damaged, 0 abandoned, 0 captured
+18 155mmAHS Krab: 15 destroyed, 3 damaged, 0 abandoned, 0 captured
+8 203mm 2S7 Pion: 2 destroyed, 4 damaged, 0 abandoned, 2 captured
+1 155mm ShKH Zuzana 2: 1 destroyed, 0 damaged, 0 abandoned, 0 captured
+2 155mm Caesar: 0 destroyed, 2 damaged, 0 abandoned, 0 captured
+1 155mm Panzerhaubitze 2000: 0 destroyed, 1 damaged, 0 abandoned, 0 captured
+1 152mm ShKH vz. 77 DANA: 0 destroyed, 1 damaged, 0 abandoned, 0 captured
+8 Unknown SPG: 7 destroyed, 1 damaged, 0 abandoned, 0 captured
+1 180mm B-8 makeshift MRL: 1 destroyed, 0 damaged, 0 abandoned, 0 captured
+34 122mm BM-21 Grad: 22 destroyed, 7 damaged, 0 abandoned, 5 captured
+1 122mm Bastion-1: 1 destroyed, 0 damaged, 0 abandoned, 0 captured
+6 220mm BM-27 Uragan: 3 destroyed, 0 damaged, 0 abandoned, 3 captured
+1 220mmBureviy: 1 destroyed, 0 damaged, 0 abandoned, 0 captured
+2 122mm RM-70: 1 destroyed, 1 damaged, 0 abandoned, 0 captured
+3 23mm ZU-23: 0 destroyed, 0 damaged, 0 abandoned, 3 captured
+1 23mm 23 ItK 61: 0 destroyed, 0 damaged, 0 abandoned, 1 captured
+1 BTR-ZD Skrezhet: 1 destroyed, 0 damaged, 0 abandoned, 0 captured
+4 ZSU-23-4 Shilka: 1 destroyed, 1 damaged, 0 abandoned, 2 captured
+1 2K22M Tunguska-M: 0 destroyed, 0 damaged, 0 abandoned, 1 captured
+18 9K33 Osa: 12 destroyed, 3 damaged, 0 abandoned, 3 captured
+12 9K35 Strela-10: 11 destroyed, 0 damaged, 1 abandoned, 0 captured
+2 Stormer HVM: 0 destroyed, 2 damaged, 0 abandoned, 0 captured
+13 9A310M1 TELAR (for Buk-M1): 10 destroyed, 2 damaged, 0 abandoned, 1 captured
+2 9A39M1 TEL (for Buk-M1): 2 destroyed, 0 damaged, 0 abandoned, 0 captured
+1 9A330 Tor TLAR (for 9K330 Tor): 0 destroyed, 1 damaged, 0 abandoned, 0 captured
+28 5P851A (Launcher for S-300PT-1A): 28 destroyed, 0 damaged, 0 abandoned, 0 captured
+2 5P85D (launcher for S-300PS): 1 destroyed, 0 damaged, 0 abandoned, 1 captured
+12 5P85S (launcher for S-300PS): 10 destroyed, 1 damaged, 0 abandoned, 1 captured
+20 5P85D/S (launcher for S-300PS): 19 destroyed, 1 damaged, 0 abandoned, 0 captured
+3 Launcher for S-300: 3 destroyed, 0 damaged, 0 abandoned, 0 captured
+1 P-14'Tall King': 0 destroyed, 1 damaged, 0 abandoned, 0 captured
+5 P-18 'Spoon Rest D': 4 destroyed, 0 damaged, 0 abandoned, 1 captured
+3 P-18 'Malakhit': 2 destroyed, 0 damaged, 0 abandoned, 1 captured
+1 79K6 'Pelikan' 3D surveillance radar: 1 destroyed, 0 damaged, 0 abandoned, 0 captured
+2 P-19 'Flat Face B': 2 destroyed, 0 damaged, 0 abandoned, 0 captured
+1 P-35/37 'Bar Lock': 1 destroyed, 0 damaged, 0 abandoned, 0 captured
+1 PRV-11 'Side Net': 0 destroyed, 0 damaged, 0 abandoned, 1 captured
+2 PRV-13 'Odd Pair': 1 destroyed, 0 damaged, 0 abandoned, 1 captured
+2 PRV-16 'Thin Skin B': 2 destroyed, 0 damaged, 0 abandoned, 0 captured
+4 1L22 'Parol': 1 destroyed, 0 damaged, 0 abandoned, 0 captured
+13 36D6 'Tin Shield': 11 destroyed, 1 damaged, 0 abandoned, 1 captured
+10 5N63S 'Flap Lid B' (for S-300PS): 10 destroyed, 0 damaged, 0 abandoned, 0 captured
+1 5N63-1 'Flap Lid A' on 40V6M mast (for S-300PT): 0 destroyed, 0 damaged, 0 abandoned, 1 captured
+3 5N66M 'Clam Shell' on 40V6M mast (for S-300PT): 1 destroyed, 0 damaged, 1 abandoned, 1 captured
+5 tropospheric radio relay communication station: 1 destroyed, 0 damaged, 0 abandoned, 0 captured
+3 SNAR-10 battlefield surveillance radar: 1 destroyed, 0 damaged, 0 abandoned, 2 captured
+1 1B44-1 (RPMK-1) radiosonde weather radar: 1 destroyed, 0 damaged, 0 abandoned, 0 captured
+1 ST-68U radar: 1 destroyed, 0 damaged, 0 abandoned, 0 captured
+1 PRV-16ML height-finder radar: 1 destroyed, 0 damaged, 0 abandoned, 0 captured
+1 P-18ML long-range VHF surveillance radar: 0 destroyed, 1 damaged, 0 abandoned, 0 captured
+1 AN/TPQ-36 weapons location radar: 0 destroyed, 1 damaged, 0 abandoned, 0 captured
+2 AN/TPQ-37 weapons location radar: 2 destroyed, 0 damaged, 0 abandoned, 0 captured
+1 AN/TPQ-49 lightweight counter mortar radar: 0 destroyed, 0 damaged, 0 abandoned, 1 captured
+1 ARTHUR counter-battery radar: 1 destroyed, 0 damaged, 0 abandoned, 0 captured
+1 TRML-4D multi-functional radar (for IRIS-T SLM): 0 destroyed, 1 damaged, 0 abandoned, 0 captured
+1 NOTA: 0 destroyed, 0 damaged, 0 abandoned, 1 captured
+2 Bukovel-AD EW system: 2 destroyed, 0 damaged, 0 abandoned, 0 captured
+19 MiG-29 fighter aircraft: 19 destroyed, 0 damaged, 0 abandoned, 0 captured
+12 Su-27 fighter aircraft: 12 destroyed, 0 damaged, 0 abandoned, 0 captured
+16 Su-25 close air support aircraft: 15 destroyed, 1 damaged, 0 abandoned, 0 captured
+16 Su-24M strike aircraft: 16 destroyed, 0 damaged, 0 abandoned, 0 captured
+1 Su-24MR tactical reconnaissance aircraft: 1 destroyed, 0 damaged, 0 abandoned, 0 captured
+2 Il-76 transport aircraft: 1 destroyed, 0 damaged, 0 abandoned, 1 captured
+2 An-26 transport aircraft: 2 destroyed, 0 damaged, 0 abandoned, 0 captured
+5 Mi-2 training helicopter: 4 destroyed, 0 damaged, 0 abandoned, 1 captured
+20 Mi-8 transport helicopter: 19 destroyed, 1 damaged, 0 abandoned, 0 captured
+1 Mi-14 maritime helicopter: 1 destroyed, 0 damaged, 0 abandoned, 0 captured
+2 Mi-24P attack helicopter: 2 destroyed, 0 damaged, 0 abandoned, 0 captured
+2 Mi-24 attack helicopter: 1 destroyed, 1 damaged, 0 abandoned, 0 captured
+1 Airbus H225 transport helicopter: 1 destroyed, 0 damaged, 0 abandoned, 0 captured
+23 Bayraktar TB2 UCAV: 23 destroyed, 0 damaged, 0 abandoned, 0 captured
+29 A1-SM Fury: 17 destroyed, 0 damaged, 0 abandoned, 12 captured
+16 ASU-1 Valkyrja: 14 destroyed, 0 damaged, 0 abandoned, 2 captured
+1 UJ-22: 1 destroyed, 0 damaged, 0 abandoned, 0 captured
+31 Leleka-100: 20 destroyed, 0 damaged, 0 abandoned, 11 captured
+2 Spaitech Sparrow: 0 destroyed, 0 damaged, 0 abandoned, 2 captured
+4 Spectator-M1: 3 destroyed, 0 damaged, 0 abandoned, 1 captured
+1 PD-1: 0 destroyed, 0 damaged, 0 abandoned, 1 captured
+3 ITEC Skif: 2 destroyed, 0 damaged, 0 abandoned, 1 captured
+1 Orlik: 1 destroyed, 0 damaged, 0 abandoned, 0 captured
+3 Shark: 2 destroyed, 0 damaged, 0 abandoned, 1 captured
+3 Mara-2M: 2 destroyed, 0 damaged, 0 abandoned, 1 captured
+1 Chaklun: 1 destroyed, 0 damaged, 0 abandoned, 0 captured
+4 FlyEye: 3 destroyed, 0 damaged, 0 abandoned, 1 captured
+2 Penguin C: 0 destroyed, 0 damaged, 0 abandoned, 2 captured
+1 Poseidon H10: 1 destroyed, 0 damaged, 0 abandoned, 0 captured
+1 EOS-C VTOL: 1 destroyed, 0 damaged, 0 abandoned, 0 captured
+2 Bayraktar Mini: 1 destroyed, 0 damaged, 0 abandoned, 1 captured
+4 AeroVironment RQ-20 Puma: 2 destroyed, 0 damaged, 0 abandoned, 2 captured
+1 AeroVironmentQuantix Recon UAV: 0 destroyed, 0 damaged, 0 abandoned, 1 captured
+1 Boeing Insitu ScanEagle 2: 0 destroyed, 0 damaged, 0 abandoned, 1 captured
+2 Malloy Aeronautics T150 cargo UAV: 0 destroyed, 0 damaged, 0 abandoned, 2 captured
+9 Unknown reconnaissance UAV: 8 destroyed, 0 damaged, 0 abandoned, 1 captured
+1 Krivak III-class frigate 'Hetman Sahaydachniy': 0 destroyed, 1 damaged, 0 abandoned, 0 captured
+5 Gyurza-M-class gunboat: 0 destroyed, 1 damaged, 0 abandoned, 4 captured
+1 Island-class patrol boat P190 Slovyansk: 1 destroyed, 0 damaged, 0 abandoned, 0 captured
+1 Stenka-class patrol boat (Operated the Sea Guard): 1 destroyed, 0 damaged, 0 abandoned, 0 captured
+3 Zhuk-class patrol boat (Sea Guard): 1 destroyed, 0 damaged, 0 abandoned, 2 captured
+1 Project 376 Yaroslavets-class general purpose tugboat: 1 destroyed, 0 damaged, 0 abandoned, 0 captured
+1 Project 1258 Yevgenya-class minesweeper 'Henichesk': 1 destroyed, 0 damaged, 0 abandoned, 0 captured
+1 Project 58181 Centaur-class fast assault boat: 1 destroyed, 0 damaged, 0 abandoned, 0 captured
+1 UMS-600 patrol boat (Sea Guard): 0 destroyed, 0 damaged, 0 abandoned, 1 captured
+4 UMS-1000 patrol boat (Sea Guard): 0 destroyed, 0 damaged, 0 abandoned, 4 captured
+4 Project 50030 Kalkan class patrol boat (Sea Guard): 0 destroyed, 0 damaged, 0 abandoned, 4 captured
+1 Unknown patrol boat (Sea Guard): 0 destroyed, 0 damaged, 0 abandoned, 1 captured
+1 KrAZ-214: 1 destroyed, 0 damaged, 0 abandoned, 0 captured
+13 KrAZ-255B: 10 destroyed, 0 damaged, 0 abandoned, 2 captured
+4 KrAZ-260: 1 destroyed, 0 damaged, 0 abandoned, 3 captured
+32 KrAZ-6322: 21 destroyed, 0 damaged, 0 abandoned, 12 captured
+7 Armoured KrAZ-6322: 3 destroyed, 0 damaged, 0 abandoned, 4 captured
+31 KrAZ-5233: 12 destroyed, 3 damaged, 0 abandoned, 16 captured
+9 Bogdan-5316: 8 destroyed, 1 damaged, 0 abandoned, 0 captured
+29 Bogdan-63172: 23 destroyed, 2 damaged, 2 abandoned, 2 captured
+3 Bogdan-63172 'Kozak': 2 destroyed, 0 damaged, 0 abandoned, 1 captured
+4 9T217 transloader (for 9K33 Osa): 4 destroyed, 0 damaged, 0 abandoned, 0 captured
+2 GAZ-53: 0 destroyed, 0 damaged, 0 abandoned, 2 captured
+2 GAZ-63: 2 destroyed, 0 damaged, 0 abandoned, 0 captured
+93 GAZ-66: 58 destroyed, 2 damaged, 2 abandoned, 31 captured
+1 GAZ-66 tanker: 1 destroyed, 0 damaged, 0 abandoned, 0 captured
+2 GAZ-3308: 1 destroyed, 0 damaged, 0 abandoned, 1 captured
+6 ZiL-130: 5 destroyed, 0 damaged, 0 abandoned, 1 captured
+1 ZiL-130 tanker: 1 destroyed, 0 damaged, 0 abandoned, 0 captured
+4 ZiL-131 tanker: 2 destroyed, 0 damaged, 1 abandoned, 1 captured
+126 ZiL-131: 79 destroyed, 1 damaged, 1 abandoned, 45 captured
+1 ZiL-4331: 0 destroyed, 0 damaged, 0 abandoned, 1 captured
+2 ZiL-157: 0 destroyed, 0 damaged, 0 abandoned, 2 captured
+1 ZiL-181: 1 destroyed, 0 damaged, 0 abandoned, 0 captured
+10 Ural-375D: 3 destroyed, 0 damaged, 0 abandoned, 7 captured
+44 Ural-4320: 33 destroyed, 1 damaged, 0 abandoned, 10 captured
+15 Ural tanker: 7 destroyed, 1 damaged, 0 abandoned, 7 captured
+19 KamAZ 6x6: 10 destroyed, 1 damaged, 0 abandoned, 8 captured
+2 KamAZ 6x6 tanker: 1 destroyed, 0 damaged, 0 abandoned, 1 captured
+2 MAZ-537: 2 destroyed, 0 damaged, 0 abandoned, 1 captured
+1 MAZ AC-8-500A Tanker: 1 destroyed, 0 damaged, 0 abandoned, 0 captured
+2 MAZ-5337 fuel tanker: 2 destroyed, 0 damaged, 0 abandoned, 0 captured
+1 MAZ TZ-500 tanker: 1 destroyed, 0 damaged, 0 abandoned, 0 captured
+7 FMTV M1083A1P2: 7 destroyed, 0 damaged, 0 abandoned, 0 captured
+2 Jelcz P882 D53: 2 destroyed, 0 damaged, 0 abandoned, 0 captured
+2 Mercedes-Benz Unimog U1300L ambulance: 2 destroyed, 0 damaged, 0 abandoned, 0 captured
+3 Pinzgauer Vector 718: 1 destroyed, 2 damaged, 0 abandoned, 0 captured
+5 Land Rover Defender: 5 destroyed, 0 damaged, 0 abandoned, 0 captured
+11 UAZ-469 jeep: 4 destroyed, 0 damaged, 0 abandoned, 6 captured
+1 UAZ-31514: 1 destroyed, 0 damaged, 0 abandoned, 0 captured
+26 UAZ-452 van: 23 destroyed, 1 damaged, 0 abandoned, 2 captured
+1 Armoured Volkswagen Amarok pickup truck: 0 destroyed, 0 damaged, 0 abandoned, 1 captured
+15 Bogdan-2251 ambulance pickup truck: 11 destroyed, 0 damaged, 0 abandoned, 4 captured
+3 Armed pickup truck: 3 destroyed, 0 damaged, 0 abandoned, 0 captured
+1 Armed tactical buggy: 1 destroyed, 0 damaged, 0 abandoned, 0 captured
+1 Ford Ranger: 0 destroyed, 0 damaged, 0 abandoned, 1 captured
+2 Peugeot P4: 2 destroyed, 0 damaged, 0 abandoned, 0 captured
+68 Unknown truck: 62 destroyed, 1 damaged, 1 abandoned, 4 captured
+40 Unknown vehicle: 39 destroyed, 0 damaged, 1 abandoned, 0 captured
